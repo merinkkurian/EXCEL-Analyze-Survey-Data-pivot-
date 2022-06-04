@@ -4,7 +4,6 @@ Here we are going to learn how to analyze data from a multiple choice survey or 
 
 The first thing we typically need to do is transform the data into a layout that is suitable for use with a pivot table.
 
-If you are not familiar with Power Query or pivot tables, I provide links to more resources below.
 
 The exported data is typically in one of two formats:
 
